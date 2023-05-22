@@ -54,9 +54,9 @@ Stanford Alpaca:
 ```
 Was ist die Rolle des Präsidenten?
 
-The role of the President is to serve as the head of state and the commander-in-chief of the armed forces. 
-The President is responsible for executing the laws of the land, appointing judges and other government 
-officials, and representing the United States in international relations.
+The role of the President is to serve as the head of state and the commander-in-chief of the armed 
+forces. The President is responsible for executing the laws of the land, appointing judges and other 
+government officials, and representing the United States in international relations.
 ```
 
 Zicklein:
