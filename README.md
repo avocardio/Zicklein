@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/zicklein-logo.png" alt="Zicklein" style="width: 20%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/zicklein.png" alt="Zicklein" style="width: 20%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 # Zicklein: A german finetuned instruction LLaMA 🇩🇪
