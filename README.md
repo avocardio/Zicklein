@@ -36,23 +36,31 @@ The finetuned model checkpoints can be downloaded on HuggingFace 🤗:
 
 Stanford Alpaca:
 ```
-x
+In welchen Ländern gibt es Lamas?
+
+Llamas can be found in Bolivia, Peru, Chile, Ecuador, and Argentina.
 ```
 
 Zicklein:
 ```
-x
+In welchen Ländern gibt es Lamas?
+
+Lamas gibt es in den folgenden Ländern: Argentinien, Bolivien, Brasilien, Chile, Ecuador, Kolumbien, Peru, Uruguay und Venezuela.
 ```
 
 
 Stanford Alpaca:
 ```
-x
+Was ist die Rolle des Präsidenten?
+
+The role of the President is to serve as the head of state and the commander-in-chief of the armed forces. The President is responsible for executing the laws of the land, appointing judges and other government officials, and representing the United States in international relations.
 ```
 
 Zicklein:
 ```
-x
+Was ist die Rolle des Präsidenten?
+
+Die Rolle des Präsidenten besteht darin, die Verfassung der Vereinigten Staaten zu verwalten und die Regierung zu leiten.
 ```
 
 ## Licenses
