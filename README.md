@@ -8,7 +8,7 @@ This repository is for a german finetuned version of the LLaMA model. This model
 
 ## Huggingface 🤗 Space
 
-You can try the model [here](https://huggingface.co/spaces/avocardio/German-Alpaca-LoRA-7b) 🤗 !
+You can try the model [here](https://huggingface.co/spaces/avocardio/German-Alpaca-LoRA-7b) !
 
 ## References
 
