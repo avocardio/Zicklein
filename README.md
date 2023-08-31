@@ -6,9 +6,11 @@
 
 This repository is for a german finetuned version of the LLaMA model. This model is designed for research use only.
 
+** Currently training with llama 2 (31.08.2023) ** 
+
 ## Huggingface 🤗 Space
 
-You can try the model [here](https://huggingface.co/spaces/avocardio/German-Alpaca-LoRA-7b) !
+The Space is offline currently.
 
 ## References
 
